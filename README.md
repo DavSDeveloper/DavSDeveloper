@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate Junior Front End Developer with a
 
 ### Universidad del Quindío
 **Systems and Computer Engineering**
-**February 2020 - September 2025**
+**(February 2020 - September 2025)**
 
 Focused on software development, databases, networking, and cybersecurity.
 
