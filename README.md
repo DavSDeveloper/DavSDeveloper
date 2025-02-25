@@ -1,22 +1,13 @@
 # Hi there, I'm David Serna Restrepo! 👋
 
-Welcome to my GitHub profile! I'm a passionate Junior Front End Developer with a strong foundation in software development, web applications, and innovative technologies. Currently, I'm pursuing a degree in Systems and Computer Engineering at Universidad del Quindío while working at N1 as a Front End Developer. Here's a bit more about me:
+Welcome to my GitHub profile! I'm a passionate Junior Front End Developer with a strong foundation in software development, web applications, and innovative technologies. Currently, I'm pursuing a degree in Systems and Computer Engineering at Universidad del Quindío. Here's a bit more about me:
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on web applications at N1 using **React.js** and **Tailwind CSS**.
 - 🌱 I’m always learning and expanding my skills in **Java**, **Python**, **JavaScript**, and more.
 - 💬 Ask me about **web development**, **database management**, and **cloud technologies**.
 - 📫 How to reach me: [sernarestrepo.dav@gmail.com](mailto:sernarestrepo.dav@gmail.com)
 - ⚡ Fun fact: I love blending creativity with technology to build effective solutions.
-
-## 💼 Experience
-
-### N1 | Junior Front End Developer
-**January 2025 - Present**
-
-- Developing high-quality web applications using **React.js** and **Tailwind CSS**.
-- Continuously improving my skills in front-end development and contributing innovative solutions.
 
 ## 🎓 Education
 
