@@ -1,6 +1,6 @@
 # Hi there, I'm David Serna Restrepo! 👋
 
-Welcome to my GitHub profile! I'm a passionate Junior Front End Developer with a strong foundation in software development, web applications, and innovative technologies. Currently, I'm pursuing a degree in Systems and Computer Engineering at Universidad del Quindío. Here's a bit more about me:
+Welcome to my GitHub profile! I'm a passionate Junior Web Developer with a strong foundation in software development, web applications, and innovative technologies. Currently, I'm pursuing a degree in Systems and Computer Engineering at Universidad del Quindío. Here's a bit more about me:
 
 ## 🚀 About Me
 
